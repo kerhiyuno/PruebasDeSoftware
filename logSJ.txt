@@ -1,0 +1,52 @@
+Hora: 14:51:51
+Imagen: Control.png
+Resultado:VERDADERO, SI contiene el texto de Control.png
+
+Hora: 14:52:11
+Imagen: t02.png
+Resultado:VERDADERO, SI contiene el texto de Control.png
+
+Hora: 14:52:16
+Imagen: t03.png
+Resultado:FALSO, NO contiene el texto de Control.png
+
+Hora: 14:52:25
+Imagen: t04.png
+Resultado:FALSO, NO contiene el texto de Control.png
+
+Hora: 14:52:34
+Imagen: t05.png
+Resultado:VERDADERO, SI contiene el texto de Control.png
+
+Hora: 14:52:39
+Imagen: t06.png
+Resultado:FALSO, NO contiene el texto de Control.png
+
+Hora: 14:52:43
+Imagen: t07.png
+Resultado:FALSO, NO contiene el texto de Control.png
+
+Hora: 14:52:48
+Imagen: t08.png
+Resultado:FALSO, NO contiene el texto de Control.png
+
+Hora: 14:52:57
+Imagen: t09.jpg
+Resultado:FALSO, NO contiene el texto de Control.png
+
+Hora: 14:53:04
+Imagen: t10.png
+Resultado:FALSO, NO contiene el texto de Control.png
+
+Hora: 14:53:11
+Imagen: t11.jpg
+Resultado:FALSO, NO contiene el texto de Control.png
+
+Hora: 14:53:16
+Imagen: t12.png
+Resultado:VERDADERO, SI contiene el texto de Control.png
+
+Hora: 14:53:20
+Imagen: t13.png
+Resultado:FALSO, NO contiene el texto de Control.png
+
