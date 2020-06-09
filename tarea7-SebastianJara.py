@@ -33,7 +33,8 @@ def estandarizar(detectadas):
         detectadas[i]=detectadas[i].replace("Ó","O")
         detectadas[i]=detectadas[i].replace("Ú","U")
         detectadas[i]=detectadas[i].replace("@","")
-
+    if ("" in detectadas):
+        detectadas.remove('')
 
 
 def detect_text(photo, bucket):
