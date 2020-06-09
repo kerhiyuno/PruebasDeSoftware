@@ -32,6 +32,7 @@ def estandarizar(detectadas):
         detectadas[i]=detectadas[i].replace("Í","I")
         detectadas[i]=detectadas[i].replace("Ó","O")
         detectadas[i]=detectadas[i].replace("Ú","U")
+        detectadas[i]=detectadas[i].replace("@","")
 
 
 
